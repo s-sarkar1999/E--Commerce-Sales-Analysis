@@ -7,27 +7,17 @@ To monitor and assess the company’s performance on a year-on-year basis, this 
 KPIs-
 
 1. Year to Date (YTD) Sales: This KPI Card showcases the total sales for the present year. 
-
 Icon: Showing the Year on Year (YoY) increase or decrease in sales percentage.
-
 Chart Type: Area Chart
-
 Purpose: To find out the Total Sales month wise.
-
 X-Axis: Month (Filters- Year 2022)
-
 Y-Axis: Sales_per_order
 
 2. Year to Date (YTD) Profit: This KPI Card showcases the total profit for the present year.
-
 Icon: Showing the Year on Year (YoY) increase or decrease in profit percentage.
-
 Chart Type: Area Chart
-
 Purpose: To find out the Total Profit month wise.
-
 X-Axis: Month (Filters- Year 2022)
-
 Y-Axis: Profit_per_order
 
 3. Year to Date (YTD) Quantity: This KPI Card showcases the total quantity of products ordered for the present year.
