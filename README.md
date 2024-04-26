@@ -6,7 +6,7 @@ To monitor and assess the company’s performance on a year-on-year basis, this 
 
 KPIs-
 
-1.	Year to Date (YTD) Sales: This KPI Card showcases the total sales for the present year. 
+1. Year to Date (YTD) Sales: This KPI Card showcases the total sales for the present year. 
 
 Icon: Showing the Year on Year (YoY) increase or decrease in sales percentage.
 
@@ -18,7 +18,7 @@ X-Axis: Month (Filters- Year 2022)
 
 Y-Axis: Sales_per_order
 
-2.	Year to Date (YTD) Profit: This KPI Card showcases the total profit for the present year.
+2. Year to Date (YTD) Profit: This KPI Card showcases the total profit for the present year.
 
 Icon: Showing the Year on Year (YoY) increase or decrease in profit percentage.
 
@@ -30,7 +30,7 @@ X-Axis: Month (Filters- Year 2022)
 
 Y-Axis: Profit_per_order
 
-3.	Year to Date (YTD) Quantity: This KPI Card showcases the total quantity of products ordered for the present year.
+3. Year to Date (YTD) Quantity: This KPI Card showcases the total quantity of products ordered for the present year.
 
 Icon: Showing the Year on Year (YoY) increase or decrease in product quantity percentage.
 
@@ -42,7 +42,7 @@ X-Axis: Month (Filters- Year 2022)
 
 Y-Axis: order_quantity
 
-4.	Year to Date (YTD) Profit Margin: This KPI Card showcases profit margin percentage for the present year.
+4. Year to Date (YTD) Profit Margin: This KPI Card showcases profit margin percentage for the present year.
 
 Icon: Showing the Year on Year (YoY) increase or decrease in profit margin percentage.
 
@@ -54,7 +54,8 @@ X-Axis: Month (Filters- Year 2022)
 
 Y-Axis: Profit Margin
 
-Sales by Product Category
+
+Sales by Product Category-
 
 Objective: To evaluate the performance of the products for each year, a Matrix table is created to show a comprehensive report based on specific product category.
 
@@ -73,6 +74,7 @@ PYTD Sales: Showing the total sales happened in the last year for each product c
 YoY Sales: Showing the increase or decrease in sales % from last year.
 
 Sales Icon: Showing the increase or decrease in sales % from last year.
+
 
 Sales by State
 
@@ -96,6 +98,7 @@ State_name: To show the name of the state (i.e., California, Texas)
 
 YoY Sales: To show the increase or decrease in sales % from last year.
 
+
 Top & Bottom Products by YTD Sales-
 
 Objective: To find out the top 5 and bottom 5 products that were purchased by the customer for the present year, two separate bar charts are created to show the total sales for each product.
@@ -116,6 +119,7 @@ X-Axis: YTD Sales
 
 Y-Axis: Product_Name (Filters- Bottom 5 products by YTD Sales)
 
+
 Sales by Region-
 
 Objective: To evaluate the performance of the products for each region (i.e., central, west), a donut chart is created to show the total sales percentage for the present year.
@@ -127,6 +131,7 @@ Chart type: Donut Chart
 Legend: customer_region
 
 Values: YTD Sales
+
 
 Sales by Shipment Mode-
 
